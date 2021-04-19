@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images (52).jpeg</filename>
+	<path>/Users/jannwawerek/Desktop/teddybär/images/images (52).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>teddy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>29</ymin>
+			<xmax>162</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>teddy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>120</ymin>
+			<xmax>224</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

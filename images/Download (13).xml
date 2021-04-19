@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Download (13).jpeg</filename>
+	<path>/Users/jannwawerek/Desktop/teddybär/images/Download (13).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>191</width>
+		<height>264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>teddy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>44</ymin>
+			<xmax>178</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
